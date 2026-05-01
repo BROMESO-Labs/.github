@@ -1,4 +1,4 @@
-# BROMESO Labs
+# BROME Solutions
 
 Software products built with precision. We build vertical SaaS for regulated and high-complexity industries.
 
